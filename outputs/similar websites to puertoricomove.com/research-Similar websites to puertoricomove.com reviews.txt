@@ -1,0 +1,107 @@
+Error processing the url https://sitechecker.pro/similar-websites/: Message: unknown error: Chrome failed to start: was killed.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008AA813+48355]
+	(No symbol) [0x0083C4B1]
+	(No symbol) [0x00745358]
+	(No symbol) [0x00763621]
+	(No symbol) [0x00760579]
+	(No symbol) [0x00790C55]
+	(No symbol) [0x0079093C]
+	(No symbol) [0x0078A536]
+	(No symbol) [0x007682DC]
+	(No symbol) [0x007693DD]
+	GetHandleVerifier [0x00B0AABD+2539405]
+	GetHandleVerifier [0x00B4A78F+2800735]
+	GetHandleVerifier [0x00B4456C+2775612]
+	GetHandleVerifier [0x009351E0+616112]
+	(No symbol) [0x00845F8C]
+	(No symbol) [0x00842328]
+	(No symbol) [0x0084240B]
+	(No symbol) [0x00834FF7]
+	BaseThreadInitThunk [0x75C87D59+25]
+	RtlInitializeExceptionChain [0x7723B79B+107]
+	RtlClearBits [0x7723B71F+191]
+
+Error processing the url https://www.sitelike.org/similar/discoveringpuertorico.com/: Message: unknown error: Chrome failed to start: was killed.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008AA813+48355]
+	(No symbol) [0x0083C4B1]
+	(No symbol) [0x00745358]
+	(No symbol) [0x00763621]
+	(No symbol) [0x00760579]
+	(No symbol) [0x00790C55]
+	(No symbol) [0x0079093C]
+	(No symbol) [0x0078A536]
+	(No symbol) [0x007682DC]
+	(No symbol) [0x007693DD]
+	GetHandleVerifier [0x00B0AABD+2539405]
+	GetHandleVerifier [0x00B4A78F+2800735]
+	GetHandleVerifier [0x00B4456C+2775612]
+	GetHandleVerifier [0x009351E0+616112]
+	(No symbol) [0x00845F8C]
+	(No symbol) [0x00842328]
+	(No symbol) [0x0084240B]
+	(No symbol) [0x00834FF7]
+	BaseThreadInitThunk [0x75C87D59+25]
+	RtlInitializeExceptionChain [0x7723B79B+107]
+	RtlClearBits [0x7723B71F+191]
+
+Error processing the url https://alternativeto.net/software/similar-site-search/: Message: unknown error: Chrome failed to start: was killed.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008AA813+48355]
+	(No symbol) [0x0083C4B1]
+	(No symbol) [0x00745358]
+	(No symbol) [0x00763621]
+	(No symbol) [0x00760579]
+	(No symbol) [0x00790C55]
+	(No symbol) [0x0079093C]
+	(No symbol) [0x0078A536]
+	(No symbol) [0x007682DC]
+	(No symbol) [0x007693DD]
+	GetHandleVerifier [0x00B0AABD+2539405]
+	GetHandleVerifier [0x00B4A78F+2800735]
+	GetHandleVerifier [0x00B4456C+2775612]
+	GetHandleVerifier [0x009351E0+616112]
+	(No symbol) [0x00845F8C]
+	(No symbol) [0x00842328]
+	(No symbol) [0x0084240B]
+	(No symbol) [0x00834FF7]
+	BaseThreadInitThunk [0x75C87D59+25]
+	RtlInitializeExceptionChain [0x7723B79B+107]
+	RtlClearBits [0x7723B71F+191]
+
+Error processing the url https://similarsite.org/: Message: unknown error: Chrome failed to start: was killed.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008AA813+48355]
+	(No symbol) [0x0083C4B1]
+	(No symbol) [0x00745358]
+	(No symbol) [0x00763621]
+	(No symbol) [0x00760579]
+	(No symbol) [0x00790C55]
+	(No symbol) [0x0079093C]
+	(No symbol) [0x0078A536]
+	(No symbol) [0x007682DC]
+	(No symbol) [0x007693DD]
+	GetHandleVerifier [0x00B0AABD+2539405]
+	GetHandleVerifier [0x00B4A78F+2800735]
+	GetHandleVerifier [0x00B4456C+2775612]
+	GetHandleVerifier [0x009351E0+616112]
+	(No symbol) [0x00845F8C]
+	(No symbol) [0x00842328]
+	(No symbol) [0x0084240B]
+	(No symbol) [0x00834FF7]
+	BaseThreadInitThunk [0x75C87D59+25]
+	RtlInitializeExceptionChain [0x7723B79B+107]
+	RtlClearBits [0x7723B71F+191]
